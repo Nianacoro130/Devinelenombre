@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+
+.container {
+	position : relative;
+	margin: 100px auto;
+	width:1000px;
+	padding-left:50px;
+	background-color : #e3dcd5 ;
+	
+}
+
+input.form-control {
+	width:100px;
+}
+
+h3 {
+	text-align:center;
+}
+
+container-list {
+	position :relative;
+	margin: 100px auto;
+	width:450px;
+	height:200px;
+	background-color : #fff ;
+	
+}
